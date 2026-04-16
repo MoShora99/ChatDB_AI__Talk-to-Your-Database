@@ -7,9 +7,11 @@ Built using **FastAPI, PostgreSQL, pgvector, HTML/CSS/JS, and GiminAI
 LLM**.
 ## 🤝 Project Preview
 
--⚠️ The project is currently running locally and not deployed yet.
+⚠️ The project is currently running locally and not deployed yet.
 Below are screenshots showing how the application works.
 ![Project Preview](images/1.PNG)
+![Project Preview](images/2.PNG)
+![Project Preview](images/3.PNG)
 
 ## 🚀 Features
 
