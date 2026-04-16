@@ -9,7 +9,7 @@ LLM**.
 
 -⚠️ The project is currently running locally and not deployed yet.
 Below are screenshots showing how the application works.
-![](images/1.png)
+![Project Preview](images/1.PNG)
 
 ## 🚀 Features
 
