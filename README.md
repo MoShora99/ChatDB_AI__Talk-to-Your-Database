@@ -5,6 +5,11 @@ PostgreSQL database using **plain natural language**. No SQL, no
 complexity --- just ask, and the AI handles the rest.\
 Built using **FastAPI, PostgreSQL, pgvector, HTML/CSS/JS, and GiminAI
 LLM**.
+## 🤝 Project Preview
+
+-⚠️ The project is currently running locally and not deployed yet.
+Below are screenshots showing how the application works.
+![](images/1.png)
 
 ## 🚀 Features
 
